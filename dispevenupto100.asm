@@ -1,4 +1,4 @@
-BITS32
+BITS 32
 
 extern printf
 section .data
